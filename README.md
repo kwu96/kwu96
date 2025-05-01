@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+-  I'm currently a Mechanical Engineering student in my senior year.
+-  I'm looking to do some personal projects, contribute to existing projects, and to further develop my programming skills._
 <!--
 **kwu96/kwu96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
